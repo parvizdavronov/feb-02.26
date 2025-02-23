@@ -1,1 +1,2 @@
+newclass 2
 VBM

@@ -1,1 +1,1 @@
-VBM
+newclass 3
