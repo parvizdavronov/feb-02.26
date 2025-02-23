@@ -1,1 +1,2 @@
 newclass 1
+VBM
